@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**mdsmax/mdsmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# max is a developer
 
-Here are some ideas to get you started:
+👋 Hello! So, I'm a developer and a student. Sometimes I do things in Python, HTML and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Skills](https://skillicons.dev/icons?i=blender,bootstrap,css,codepen,github,vscode,html,js,python,discord,bots,figma,instagram,linkedin,md,lua,nodejs,php,ps,powershell,pr,photoshop,replit)
+
+
+
+
+💻 | [Projects](https://link-da-documentação)
+<br>
+🔗 | [Website](https://max.is-a.dev)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsmax&theme=algolia&show_icons=true&border_radius=8&count_private=true&include_all_commits=true)](https://wdh.gg/github)
+
+
