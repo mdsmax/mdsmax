@@ -4,7 +4,7 @@
 👋 Hello! So, I'm a developer and a student. Sometimes I do things in Python, HTML and CSS.
 
 
-![Skills](https://skillicons.dev/icons?i=blender,bootstrap,css,codepen,github,vscode,html,js,python,discord,bots,figma,instagram,linkedin,md,lua,nodejs,php,ps,powershell,pr,photoshop,replit)
+![Skills](https://skillicons.dev/icons?i=blender,bootstrap,css,codepen,github,vscode,html,js,python,discord,bots,figma,instagram,linkedin,md,lua,nodejs,php,ps,powershell,pr,replit)
 
 
 
